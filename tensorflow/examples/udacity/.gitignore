@@ -3,3 +3,4 @@ notMNIST_*
 
 # my processed images
 save_pickles
+notMNIST.pickle
