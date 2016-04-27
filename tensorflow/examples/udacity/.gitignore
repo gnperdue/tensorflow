@@ -4,3 +4,6 @@ notMNIST_*
 # my processed images
 save_pickles
 *.pickle
+
+# my random test data
+mytesttext.txt
